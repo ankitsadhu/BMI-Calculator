@@ -1,5 +1,5 @@
 
-<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="images/style.css">
 
 # BMI Calculator 
 
