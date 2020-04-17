@@ -8,8 +8,18 @@ A Simple BMI Calculator for android and ios smartphones
 ![screenshot](images/Screenshot.png)
 
 
-![screenshot](images/BMI.png)
+<img src="images/BMI.png">
+<br>
 
-![screenshot](images/selector_page.png)
+<div>
+<img class="main" src="images/selector_page.png" width="250">
 
-![screenshot](images/result_page.png)
+<img class="main" src="images/result_page.png" width="250">
+</div>
+
+<style> 
+.main{
+    margin:10px;
+    padding:5px;
+}
+</style>
