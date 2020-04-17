@@ -19,9 +19,11 @@ A Simple BMI Calculator for android and ios smartphones
 <img class="main" src="images/result_page.png" width="250">
 </div>
 
-<style> 
-.main{
-    margin:10px;
-    padding:5px;
-}
+<style>
+    .markdown-body {
+        .main{
+            margin:10px;
+            padding:5px;
+        }
+    }
 </style>
