@@ -1,5 +1,5 @@
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="github-markdown.css">
+
+<link rel="stylesheet" href="style.css">
 
 # BMI Calculator 
 
@@ -20,8 +20,5 @@ A Simple BMI Calculator for android and ios smartphones
 </div>
 
 
-        .main{
-            margin:10px;
-            padding:5px;
-        }
+        
     
