@@ -1,12 +1,14 @@
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="github-markdown.css">
 
-# BMI Calculator 💪
+# BMI Calculator 
 
 A Simple BMI Calculator for android and ios smartphones
 
 # Screenshots
 
-![screenshot](images/Screenshot.png)
 
+<img src="images/Screenshot.png">
 
 <img src="images/BMI.png">
 <br>
