@@ -1,5 +1,5 @@
 
-<link rel="stylesheet" href="images/style.css">
+<link rel="stylesheet" href="https://github.com/ankitsadhu/BMI-Calculator/blob/master/images/style.css">
 
 # BMI Calculator 
 
